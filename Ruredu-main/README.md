@@ -87,9 +87,6 @@ Start the backend server
 
 4. Wrestling with nested objects in the subject model. Three layers deep, like an onion. Cried a little. 😢
 
-## Credits 🙌
-
-Huge shoutout to ChatGPT! It wrote most of my code, even this README. Yeah, I'm practically an AI assistant myself. 🤖
 
 ## Noob Chronicles 🤓
 
